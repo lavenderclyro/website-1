@@ -1,0 +1,51 @@
+
+body {
+    font-family: 'Lovers Quarrel';
+}
+
+.page {
+    align-content: center;
+}
+
+.love {
+    color: #000000;
+    background-color: #ffffff;
+    font-size: 45;
+    width: 100%;
+    text-align: center;
+   
+}
+
+.main {
+    color: #0a8f88;
+    background-color: #c88ad4;
+    font-size: 45;
+    width: 100%;
+    text-align: center;
+}
+
+
+.scoobydoo {
+    color: #ffffff;
+    background-color: #ff0000;
+    font-size: 45;
+    width: 100%;
+    text-align: center;
+}
+
+.bnanananananananananananananannanananananananananans {
+    color: #cabf1e;
+    background-color: #3d3403;
+    font-size: 45;
+    width: 100%;
+    text-align: center;
+}
+
+
+.cool-guy {
+    color: #338d09;
+    background-color: #f8f8f8;
+    font-size: 45;
+    width: 100%;
+    text-align: center;
+}
