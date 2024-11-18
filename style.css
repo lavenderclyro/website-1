@@ -16,6 +16,15 @@ body {
    
 }
 
+.heart {
+    color: #e97fc5;
+    background-color: #ffffff;
+    font-size: 45;
+    width: 100%;
+    text-align: center;
+    border-width: 0;
+   
+}
 .main {
     color: #0a8f88;
     background-color: #c88ad4;
